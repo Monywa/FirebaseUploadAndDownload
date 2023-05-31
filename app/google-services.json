@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "639399752429",
+    "firebase_url": "https://movieapp-ade5a-default-rtdb.firebaseio.com",
+    "project_id": "movieapp-ade5a",
+    "storage_bucket": "movieapp-ade5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639399752429:android:f802ca4aa59e15028c92e4",
+        "android_client_info": {
+          "package_name": "com.googlelearingbytete.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639399752429-1ocbti36odo5ruk4214n9i3juv0k2lp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2pGgJ-B7wdxfXnOoFREIQlSC4dQiv24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639399752429-1ocbti36odo5ruk4214n9i3juv0k2lp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639399752429:android:5570c861706b0f8e8c92e4",
+        "android_client_info": {
+          "package_name": "com.googlelearingbytete.movieappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639399752429-1ocbti36odo5ruk4214n9i3juv0k2lp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2pGgJ-B7wdxfXnOoFREIQlSC4dQiv24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639399752429-1ocbti36odo5ruk4214n9i3juv0k2lp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639399752429:android:3ef5d1a1b834075f8c92e4",
+        "android_client_info": {
+          "package_name": "com.monywastudent.firebaseuploadanddownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639399752429-1ocbti36odo5ruk4214n9i3juv0k2lp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2pGgJ-B7wdxfXnOoFREIQlSC4dQiv24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639399752429-1ocbti36odo5ruk4214n9i3juv0k2lp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
